@@ -1,1 +1,3 @@
+com\app\todo\models\Task.class
 com\app\todo\TodoApplication.class
+com\app\todo\repository\TaskRepository.class
