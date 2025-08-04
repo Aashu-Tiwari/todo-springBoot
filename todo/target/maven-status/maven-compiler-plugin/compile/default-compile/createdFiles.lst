@@ -1,3 +1,6 @@
 com\app\todo\models\Task.class
+com\app\todo\controller\TaskController.class
 com\app\todo\TodoApplication.class
+com\app\todo\controller\TaskRestController.class
+com\app\todo\service\TaskService.class
 com\app\todo\repository\TaskRepository.class
